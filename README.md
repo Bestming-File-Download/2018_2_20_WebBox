@@ -1,5 +1,5 @@
 # 2018_2_20_src_link_Box
-use to Link Web File 
+use to Link Web File and Automatically add provenance when copying (当复制文字的时候，自动在添加文字出处)
 
 ## usage method:
 >	
